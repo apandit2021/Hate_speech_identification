@@ -7,4 +7,4 @@ Here, I have classified the offensive tweets from the famous olid twitter datase
 5. Decision Tree
 6. Random Forest
 
-Upon the evaluation, it was found that the ML models SVM and Logistic Regression classify the tweet datasets with higher accuracies of 81% and 80%, respectively.
+Upon the evaluation, among all the ML models, it was found that SVM and Logistic Regression classify the tweet datasets with higher accuracies of 81% and 80%, respectively.
