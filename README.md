@@ -1,4 +1,5 @@
 # Twitter_offensive_language_identification_dataset
+Hate speech has been a persistent problem on social media; it is used to disparage a person, or a group based on their organizational affiliation or personal attributes. Although various rules and regulations are implemented to diminish hate speech on social media, it is still prevalent in social medias like Facebook and Twitter. Early detection of hate speech can help deescalate the crime and conflicts in the society.
 
 Here, I have classified a dataset with tweets whether they are offensive or not by using the famous olid twitter dataset (https://sites.google.com/site/offensevalsharedtask/olid) using the following top machine learning (ML) algorithms. I used some of the ML models here for my course project as well.
 1. Logistic Regression
