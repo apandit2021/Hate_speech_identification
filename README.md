@@ -1,4 +1,4 @@
-# Twitter_offensive_dataset_classification
+# Twitter_offensive_language_dataset_classification
 
 Here, I have classified the offensive tweets from the famous olid twitter dataset (https://sites.google.com/site/offensevalsharedtask/olid) using the following top machine learning (ML) algorithms. I used some of the ML models here for my course project as well.
 1. Logistic Regression
